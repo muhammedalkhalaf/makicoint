@@ -7,10 +7,7 @@ Authors@R: c(
     person("Muhammad", "Alkhalaf", 
            email = "muhammedalkhalaf@gmail.com",
            role = c("aut", "cre", "cph"),
-           comment = c(ORCID = "0009-0002-2677-9246")),
-    person("Merwan", "Roudane",
-           role = "ctb",
-           comment = "Original Stata implementation"))
+           comment = c(ORCID = "0009-0002-2677-9246")))
 Description: Implements the Maki (2012) <doi:10.1016/j.econmod.2012.04.022>
     cointegration test that allows for an unknown number of structural breaks.
     The test extends the Gregory-Hansen (1996) framework to multiple breaks,

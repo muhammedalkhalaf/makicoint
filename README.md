@@ -1,7 +1,6 @@
 # makicoint
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/merwanroudane/makicoint/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/merwanroudane/makicoint/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 ## Overview
@@ -14,7 +13,6 @@ You can install the development version from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("merwanroudane/makicoint")
 ```
 
 ## Usage
