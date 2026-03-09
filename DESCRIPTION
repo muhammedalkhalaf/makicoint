@@ -1,0 +1,33 @@
+Package: makicoint
+Type: Package
+Title: Maki Cointegration Test with Multiple Structural Breaks
+Version: 1.1.0
+Date: 2026-03-09
+Authors@R: c(
+    person("Muhammad", "Alkhalaf", 
+           email = "muhammedalkhalaf@gmail.com",
+           role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0009-0002-2677-9246")),
+    person("Merwan", "Roudane",
+           role = "ctb",
+           comment = "Original Stata implementation"))
+Description: Implements the Maki (2012) <doi:10.1016/j.econmod.2012.04.022>
+    cointegration test that allows for an unknown number of structural breaks.
+    The test extends the Gregory-Hansen (1996) framework to multiple breaks,
+    testing the null hypothesis of no cointegration against the alternative
+    of cointegration with up to five structural breaks. Four model specifications
+    are supported: level shift, level shift with trend, regime shift, and
+    regime shift with trend. Critical values are provided for one to four
+    regressors and one to five breaks.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 3.5.0)
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
