@@ -9,6 +9,10 @@ The `makicoint` package implements the Maki (2012) cointegration test that allow
 
 ## Installation
 
+This package is distributed on GitHub only. Note that the package named
+`makicoint` on CRAN is a different package by a different author; it is not
+related to this repository.
+
 You can install the development version from GitHub:
 
 ```r
@@ -76,7 +80,7 @@ The package supports four model types:
 
 - Maki, D. (2012). Tests for cointegration allowing for an unknown number of breaks. *Economic Modelling*, 29(5), 2011-2015. [doi:10.1016/j.econmod.2012.04.022](https://doi.org/10.1016/j.econmod.2012.04.022)
 
-- Gregory, A. W., & Hansen, B. E. (1996). Residual-based tests for cointegration in models with regime shifts. *Journal of Econometrics*, 70(1), 99-126.
+- Gregory, A. W. and Hansen, B. E. (1996). Residual-based tests for cointegration in models with regime shifts. *Journal of Econometrics*, 70(1), 99-126.
 
 ## License
 

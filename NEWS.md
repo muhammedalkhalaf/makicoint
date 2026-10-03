@@ -1,6 +1,12 @@
+# makicoint 1.1.0
+
+* CITATION: removed the CRAN URL and the CRAN DOI. This package is distributed
+  on GitHub only; the package named `makicoint` on CRAN is a different package
+  by a different author and is not related to this repository.
+
 # makicoint 1.0.0
 
-* Initial CRAN release
+* Initial release (GitHub)
 * Implements the Maki (2012) cointegration test with multiple structural breaks
 * Supports four model specifications:
   - Model 0: Level shift

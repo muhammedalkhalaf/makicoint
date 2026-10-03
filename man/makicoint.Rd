@@ -94,7 +94,7 @@ Maki, D. (2012). Tests for cointegration allowing for an unknown number of
 breaks. \emph{Economic Modelling}, 29(5), 2011-2015.
 \doi{10.1016/j.econmod.2012.04.022}
 
-Gregory, A. W., & Hansen, B. E. (1996). Residual-based tests for
+Gregory, A. W. and Hansen, B. E. (1996). Residual-based tests for
 cointegration in models with regime shifts. \emph{Journal of Econometrics},
 70(1), 99-126. \doi{10.1016/0304-4076(69)41685-7}
 }
